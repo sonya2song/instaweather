@@ -1,0 +1,33 @@
+conds	Light Snow
+date	HASH(0x29f7d48)
+dewpti	33.1
+dewptm	0.6
+fog	0
+hail	0
+heatindexi	-9999
+heatindexm	-9999
+hum	100
+icon	snow
+metar	METAR KBOS 020454Z 18011KT 2 1/2SM -SN BR FEW003 OVC010 01/01 A3013 RMK AO2 TWR VIS 3 SLP204 P0000 T00060006
+ 400441044
+precipi	0.00
+precipm	0.0
+pressurei	30.14
+pressurem	1020.4
+rain	0
+snow	1
+tempi	33.1
+tempm	0.6
+thunder	0
+tornado	0
+utcdate	HASH(0x29f7f10)
+visi	2.5
+vism	4.0
+wdird	180
+wdire	South
+wgusti	-9999.0
+wgustm	-9999.0
+windchilli	23.9
+windchillm	-4.5
+wspdi	12.7
+wspdm	20.4

@@ -1,0 +1,34 @@
+0	yyyymmdd	
+1	conds	string
+2	hour
+3	min
+4	dewpti
+5	dewptm
+6	fog
+7	hail
+8	heatindexi
+9	heatindexm
+10	hum
+	icon	string
+	metar	string
+	precipi
+	precipm
+	pressurei
+	pressurem
+	rain
+	snow
+	tempi
+20	tempm
+	thunder
+	tornado
+	visi
+	vism
+	wdird
+	wdire	string
+	wgusti
+	wgustm
+	windchilli
+	windchillm
+31	wspdi
+	wspdm
+33	windchills
